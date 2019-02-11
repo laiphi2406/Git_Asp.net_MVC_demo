@@ -13296,11 +13296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/local/3SI/phi.lv/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/home/local/3SI/phi.lv/Music/Git_Asp.net_MVC_demo/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/home/local/3SI/phi.lv/MvcMovie/MvcMovie.csproj",
+      "projectPath": "/home/local/3SI/phi.lv/Music/Git_Asp.net_MVC_demo/MvcMovie.csproj",
       "packagesPath": "/home/local/3SI/phi.lv/.nuget/packages/",
-      "outputPath": "/home/local/3SI/phi.lv/MvcMovie/obj/",
+      "outputPath": "/home/local/3SI/phi.lv/Music/Git_Asp.net_MVC_demo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
